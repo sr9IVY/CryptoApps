@@ -9,7 +9,6 @@ Launch the Github link
 Click the green Code button to launch codespaces
 SHA-256 Hasher
 In the terminal type:
-1 python sha256Hasher.py
+1 python shaHasher.py
 2 python caesarCipher.py
-3 sudo apt-get install openssl
-  python digitalSignature,py
+3 python digitalSignature,py
