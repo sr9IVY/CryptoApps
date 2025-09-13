@@ -1,0 +1,1 @@
+This is a sample file used for testing SHA-256 hashing and digital signatures.
