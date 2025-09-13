@@ -6,9 +6,9 @@ This repository runs three crypto apps
 
 How to Run Apps
 Launch the Github link 
-Click the green Code button to launch codespaces
+Click the green Code button and select + to launch codespaces
 SHA-256 Hasher
 In the terminal type:
 1 python shaHasher.py
 2 python caesarCipher.py
-3 python digitalSignature,py
+3 python digitalSignature.py
